@@ -20,7 +20,7 @@ while chance != 15:
         
         for indice in range(0, len(list(palavra))):
             if letras_usuarios == list(palavra)[indice]:
-                palavra_new[indice] = letras_usuarios ```
+                palavra_new[indice] = letras_usuarios
  
  
             
